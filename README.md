@@ -4,7 +4,8 @@ variable and an independent variable) and returns a graph in the form of a strin
 printed out to the console or a dict that will be processed into a yaml file.
 
 If you want to change the inputs, you can change the variables xpoints, given_function and the
-random_points parameter in input.py. They will all be marked in ALL CAPS.
+random_points parameter in input.py. They will all be marked in ALL CAPS. Then, run either the output.py 
+(and print final_graph) OR run output_to_yaml.file to get the graph.
 
 Files (in turn of order):
 input.py, 
