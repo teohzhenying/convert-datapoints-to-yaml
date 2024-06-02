@@ -18,6 +18,6 @@ datapoint_to_coordinate.py,
 plot_datapoints.py, 
 spacing.py, 
 output.py, 
-output_to_yaml.file
+output_to_yaml_file.py
 
 The example of an output is graph.yaml.
