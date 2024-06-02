@@ -21,3 +21,5 @@ output.py,
 output_to_yaml_file.py
 
 The example of an output is graph.yaml.
+
+Note: If you are using anything below Python 3.7, your yaml file might not appear correctly because I used the characteristic of an ordered dict, but your graph should still be able to be printed out to your console.
