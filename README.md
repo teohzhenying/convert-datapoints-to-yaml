@@ -7,16 +7,16 @@ If you want to change the inputs, you can change the variables xpoints, given_fu
 random_points parameter in input.py. They will all be marked in ALL CAPS.
 
 Files (in turn of order):
-input.py
-scale.py
-axis.py
-xy_datapoints.py
-format_xy_datapoints.py
-sketch_xy_axis.py
-datapoint_to_coordinate.py
-plot_datapoints.py
-spacing.py
-output.py
+input.py, 
+scale.py, 
+axis.py, 
+xy_datapoints.py, 
+format_xy_datapoints.py, 
+sketch_xy_axis.py, 
+datapoint_to_coordinate.py, 
+plot_datapoints.py, 
+spacing.py, 
+output.py, 
 output_to_yaml.file
 
 The example of an output is graph.yaml.
